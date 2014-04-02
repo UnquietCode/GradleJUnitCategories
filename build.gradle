@@ -29,7 +29,7 @@ sourceSets {
 
 test {
 	useJUnit {
-		includeCategories 'com.test.TestCategory'
+		includeCategories 'com.test.TestCategory.CategoryA'
 	}
 }
 

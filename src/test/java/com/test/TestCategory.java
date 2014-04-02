@@ -5,4 +5,6 @@ package com.test;
  * @version 2014-04-01
  */
 public interface TestCategory {
+
+	public interface CategoryA { }
 }
